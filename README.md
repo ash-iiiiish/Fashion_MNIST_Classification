@@ -1,4 +1,4 @@
-# 📘 Fashion MNIST Classification
+# 📘 Fashion MNIST Classification :
 
 ## 📝 Introduction
 This project implements a **Fashion MNIST Classification** system using the **MNIST dataset**. The model is trained to recognize Fashion objects like shirts,shoes,trousers etc. based on grayscale images of clothes. The project demonstrates the application of deep learning techniques for image recognition tasks.
